@@ -1,1 +1,1 @@
-# blog setting
+# blog
